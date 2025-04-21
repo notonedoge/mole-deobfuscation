@@ -42425,7 +42425,6 @@ function _b3(_H7, _I7) {
           var _5c = _3c[_4c];
           {
             _5c.levelnum = _H7.count;
-            console.log(_5c.levelnum)
           }
         }
       }
